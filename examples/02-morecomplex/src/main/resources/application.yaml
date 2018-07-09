@@ -1,0 +1,19 @@
+spring.application.name: Typesafe More Complex Configuration!
+example.list.properties:
+  - "one"
+  - "two"
+
+example.nested.connection:
+  url: http://example.com
+  username: my-username
+  password: stop-peeking
+
+example:
+  nestedlist:
+    clients:
+      - url: "https://google.com.au"
+        name: "Google Australia"
+      - url: "https://aws.amazon.com"
+        name: "Amazon AWS"
+
+management.security.enabled: false
