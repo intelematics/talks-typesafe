@@ -1,4 +1,4 @@
-# Configuration
+# More Complex Configuration
 
 ## Show some more interesting configuration
 [Spring Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-external-config-typesafe-configuration-properties)
