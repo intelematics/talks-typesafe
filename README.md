@@ -1,4 +1,5 @@
 # Typesafe Spring Configuration Demo
+[![Build Status](https://travis-ci.org/intelematics/talks-typesafe.svg?branch=master)](https://travis-ci.org/intelematics/talks-typesafe)
 
 ## Tutorial
 
